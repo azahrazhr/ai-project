@@ -1,5 +1,5 @@
 # AI Project
-random project about AI
+Random project about AI
 
 ## Track
 ### 1. Implementing an Autoencoder in PyTorch (Fri, July 1, 2022)
